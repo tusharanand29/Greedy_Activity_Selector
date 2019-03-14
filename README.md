@@ -1,4 +1,4 @@
-# Greedy_Activity_Selector
+# GREEDY_ACTIVITY_SELECTOR
 Application of Greedy Algorithm In Finding The Set of Maximum Compatible Activities For A Given Set Of Activities.
 Assumptions:-
 1.Single Resource Available
